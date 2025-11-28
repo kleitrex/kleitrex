@@ -13,7 +13,7 @@
 - 🌱 Eu estou realizando o curso  de java
 - 👯 conta de email: kleitrex.pr@gmail.com
 
-  #
+  ##
 
 <div>
   <a href="https://github.com/kleitrex"> 
@@ -23,7 +23,7 @@
 </div>
 
 
-  #
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="kleiton-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
